@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Christmas Advent Calendar widget grabs all christmas advent calendars from julekalender.com and makes them available to you and your users! Participate, have fun and win great prices. 
+The widget grabs all calendars from julekalender.com and makes them available to you and your users! Participate, have fun and win great prices. 
 
 == Description ==
 
