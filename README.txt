@@ -48,8 +48,8 @@ Its very easy. Sign up at [julekalender.com](http://www.julekalender.com?a=wp/ "
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Open widgets section and drag it into your preferred widget area
 1. Select number of calendars to show (calendars are randomly drawn from our calendar pool to keep your plugin-area constantly changing)
-1. Participate and win prices. (you might want to bookmark the ones like enjoy the most)
-1. Buy it!
+1. Participate and win prices. (you might want to bookmark the ones you enjoy the most)
+1. If your corporate go premium!
 
 == Frequently Asked Questions ==
 = Why use this? =
