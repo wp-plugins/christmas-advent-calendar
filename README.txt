@@ -27,7 +27,7 @@ The plugin currently supports english, norwegian, danish and swedish.
 1. Fully integrated with Youtube and Vimeo
 1. Facebook support (add your calendar to your Facebook pages)
 1. Google Analytics support
-1. An automatic daily email reminder to your recipients/contestants
+1. An automatically daily email reminder to your recipients/contestants
 1. One-click export of all contestants
 1. An admin-panel to draw winners
 1. Your calendar will be promoted on julekalender.com and through Wordpress
