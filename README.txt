@@ -20,6 +20,7 @@ The plugin currently supports english, norwegian, danish and swedish.
 **Premium**
 
 *What do I get?*
+
 1. A javascript-based calendar that doesn't break on iPad and iPhone
 1. 24 slots that doesn't open prematurely
 1. Add pics or video to your questions & competitions
@@ -32,6 +33,7 @@ The plugin currently supports english, norwegian, danish and swedish.
 1. Your calendar will be promoted on julekalender.com and through Wordpress
 
 *Why buy?*
+
 An advent calendar creates commitment and enthusiasm. Its a cheap & effective way to build brand recognition, and will also create new customer relationships and preserve old ones.
 
 Curious? We guarantee it will be a breeze!
@@ -40,10 +42,6 @@ Curious? We guarantee it will be a breeze!
 Its very easy. Sign up at [julekalender.com](http://www.julekalender.com?a=wp/ "julekalender.com") and try it out for free until november 25th!
 
 == Installation ==
-
-This section describes how to install the plugin and get it working.
-
-e.g.
 
 1. Upload Christmas Advent Calendar to the `/wp-content/plugins/` directory or simply download it from Wordpress.
 1. Activate the plugin through the 'Plugins' menu in WordPress
