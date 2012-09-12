@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in echo
+#: mappe uten navn/julekalender_widget.php:80
+msgid "An advent calendar creates commitment and enthusiasm. Its a cheap & effective way to build brand recognition, and will also create new customer relationships.<br /><br /> Curious? <br /><br /><a target=\"_blank\" href=\"http://www.julekalender.com?a=wp\">Sign up to test us for free until 25 november</a><br /><br /> We guarantee it will be a breeze!"
+msgstr "En julekalender genererer engasjement og entusiasme. Det er en billig &amp; og effektiv m&aring;te &aring; bygge merkevarekjennskap og nye kundeforholde p&aring;. <br /><br /> Nyskjerrig? <br /><br /><a target=\"_blank\" href=\"http://www.julekalender.com?a=wp\">Registrer deg og test oss frem til 25. november</a><br /><br />Vi garanterer at det g&aring;r som en lek!"
+
+#. Text in echo
+#: mappe uten navn/julekalender_widget.php:109
+msgid "Buy a calendar"
+msgstr "Kj&oslash;p kalender"
+
+#. Text in echo
+#: mappe uten navn/julekalender_widget.php:79
+msgid "Corporate"
+msgstr "Bedrift"
+
+#. Text in echo
+#: mappe uten navn/julekalender_widget.php:53
+msgid "Description"
+msgstr "Beskrivelse"
+
+#. Text in function
+#: mappe uten navn/julekalender_widget.php:113
+msgid "Get a list of Christmas Advent Calendars from julekalender.com"
+msgstr "Hent en liste med julekalendere fra julekalender.com. Delta og vinn flotte premier."
+
+#. Text in echo
+#: mappe uten navn/julekalender_widget.php:108
+msgid "I want more calendars"
+msgstr "Vis flere kalendere"
+
+#. Text in echo
+#: mappe uten navn/julekalender_widget.php:61
+msgid "Number of Christmas Advent calendars"
+msgstr "Vis antall kalendere"
+
+#. Text in echo
+#: mappe uten navn/julekalender_widget.php:45
+msgid "Title"
+msgstr "Tittel"
+
