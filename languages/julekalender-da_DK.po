@@ -12,7 +12,7 @@ msgstr ""
 #. Text in echo
 #: mappe uten navn/julekalender_widget.php:80
 msgid "An advent calendar creates commitment and enthusiasm. Its a cheap & effective way to build brand recognition, and will also create new customer relationships.<br /><br /> Curious? <br /><br /><a target=\"_blank\" href=\"http://www.julekalender.com?a=wp\">Sign up to test us for free until 25 november</a><br /><br /> We guarantee it will be a breeze!"
-msgstr "En julekalender er en billige og effektiv måde at bygge kendskab til gamle og nye kundeforhold.<br /><br />  Nysgerrige? <br /><br />a target=\"_blank\" href=\"http://www.julekalender.com?a=wp\">Registrere dig og test os frem til d. 25 november</a><br /><br />Vi garanterer det vil v&aelig;re enkelt!"
+msgstr "En julekalender er en billige og effektiv måde at bygge kendskab til gamle og nye kundeforhold.<br /><br />  Nysgerrige? <br /><br /><a target=\"_blank\" href=\"http://www.julekalender.com?a=wp\">Registrere dig og test os frem til d. 25 november</a><br /><br />Vi garanterer det vil v&aelig;re enkelt!"
 
 #. Text in echo
 #: mappe uten navn/julekalender_widget.php:109
