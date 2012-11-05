@@ -106,23 +106,23 @@
                         </script>
                         </ul>
 <?php					if($bloginfo_lang === 'nb-NO') { ?>
-                        <strong>&raquo;&nbsp;<a target="_blank" href="http://julekalender.com/julekalendere-2012"><?php _e('Vis flere kalendere', 'julekalender');?></a></strong><br />
+                        <strong>&raquo;&nbsp;<a target="_blank" href="#"><?php _e('Vis flere kalendere', 'julekalender');?></a></strong><br />
                         <strong>&raquo;&nbsp;<a target="_blank" href="http://julekalender.com/opprett"><?php _e('Kj&oslash;p kalender', 'julekalender');?></a></strong>
 <?php 					} elseif($bloginfo_lang === 'da-DK') { ?>
-						<strong>&raquo;&nbsp;<a target="_blank" href="http://julekalender.com/julekalendere-2012"><?php _e('Se flere kalendere', 'julekalender');?></a></strong><br />
+						<strong>&raquo;&nbsp;<a target="_blank" href="#"><?php _e('Se flere kalendere', 'julekalender');?></a></strong><br />
                         <strong>&raquo;&nbsp;<a target="_blank" href="http://julekalender.com/opprett"><?php _e('K&oslash;be kalender', 'julekalender');?></a></strong>
 
 <?php 					} elseif($bloginfo_lang === 'sv-SE') { ?>
-						<strong>&raquo;&nbsp;<a target="_blank" href="http://julekalender.com/julekalendere-2012"><?php _e('Visa fler kalendrar', 'julekalender');?></a></strong><br />
+						<strong>&raquo;&nbsp;<a target="_blank" href="#"><?php _e('Visa fler kalendrar', 'julekalender');?></a></strong><br />
                         <strong>&raquo;&nbsp;<a target="_blank" href="http://julekalender.com/opprett"><?php _e('K&ouml;pa kalender', 'julekalender');?></a></strong>
 
 <?						} else { ?>
-						<strong>&raquo;&nbsp;<a target="_blank" href="http://julekalender.com/julekalendere-2012"><?php _e('I want more calendars', 'julekalender');?></a></strong><br />
+						<strong>&raquo;&nbsp;<a target="_blank" href="#"><?php _e('I want more calendars', 'julekalender');?></a></strong><br />
                         <strong>&raquo;&nbsp;<a target="_blank" href="http://julekalender.com/opprett"><?php _e('Buy a calendar', 'julekalender');?></a></strong>
 
 	
 <?php } ?>
-                    <script> new window.MakenewsmailJulekalender(<?php echo $julekalender_num ?>); </script>
+                    <script> new window.MakenewsmailJulekalender('<?php echo $julekalender_num ?>','<?php echo substr($bloginfo_lang, 0,2) ?>'); </script>
                 
 <?php
 					echo "</div>";

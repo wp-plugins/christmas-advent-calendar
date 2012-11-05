@@ -1,7 +1,8 @@
 var MakenewsmailJulekalender = (function( $ ) {
 
-	function Julekalender(numCalendars) {
+	function Julekalender(numCalendars, lang) {
 		this.numCalendars = numCalendars || 3;
+		this.lang = lang;
 		this.apiurl = 'https://tiltnes.julekalender.com/api/calendars.json?callback=?';
 		this.init();
 		
@@ -11,7 +12,7 @@ var MakenewsmailJulekalender = (function( $ ) {
 		var self = this;
 		
 		this.getCalendars().then(
-			function( json ) { self.writePage(json);  }, function(error) { console.log("opps") }
+			function( json ) { self.writePage(json);  }, function(error) { alert("opps") }
 		)
 	}
 
@@ -26,14 +27,21 @@ var MakenewsmailJulekalender = (function( $ ) {
 	}
 
 	Julekalender.prototype.writePage = function( json ) {
-		console.log(json);
 		var local = json,
 			newarr = [], 
 			counter = 1;
+		
+						
 			(this.numCalendars > local.length) ? counter = local.length : counter = this.numCalendars;
 			
-			for(i=0;i<counter;i++) { newarr.push(local[i]); }
-
+			for(i=0;i<counter;i++) { 
+				local_language = local[i].language.substring(0, 2);
+				
+				if( this.lang === local_language ) {
+					newarr.push(local[i]); 
+				}
+			}
+			
 			template = Handlebars.compile($('#template').html());
 			var temp = template(this.shuffle(newarr));
 			
