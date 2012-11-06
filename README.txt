@@ -16,14 +16,34 @@ Participating is free!
 
 The plugin currently supports english, norwegian, swedish and danish.
 
+**Premium**
 
-*Why buy?*
-An advent calendar creates commitment and enthusiasm. Its a cheap & effective way to build brand recognition, and will also create new customer relationships.
+**What do I get?**
+
+1. A javascript-based calendar that doesn't break on iPad and iPhone
+1. 24 slots that doesn't open prematurely
+1. Add pics or video to your questions & competitions
+1. Fully integrated with Youtube and Vimeo
+1. Facebook support (add your calendar to your Facebook pages)
+1. Google Analytics support
+1. An automatically daily email reminder to your recipients/contestants
+1. One-click export of all contestants
+1. An admin-panel to draw winners
+1. Your calendar will be promoted on julekalender.com and through Wordpress
+
+**Why buy?**
+
+An advent calendar creates commitment and enthusiasm. Its a cheap & effective way to build brand recognition, and will also create new customer relationships and preserve old ones.
 
 Curious? We guarantee it will be a breeze!
 
-*What to do?*
-Its very easy. Sign up at [julekalender](http://www.julekalender.com?a=wp/ "julekalender") and try it out for free until november 25th!
+**What to do?**
+
+Its very easy. Sign up at 
+Norwegian: [julekalender.com](http://www.julekalender.com/opprett?a=wp/ "julekalender.com") and try it out for free until november 25th!
+Swedish: [julekalender.com](http://www.julekalender.com/se/opprett?a=wp/ "julekalender.com") and try it out for free until november 25th!
+Danish: [julekalender.com](http://www.julekalender.com/dk/opret?a=wp/ "julekalender.com") and try it out for free until november 25th!
+English: [julekalender.com](http://www.julekalender.com/en/opprett?a=wp/ "julekalender.com") and try it out for free until november 25th!
 
 
 == Installation ==
