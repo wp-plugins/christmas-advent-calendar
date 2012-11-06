@@ -40,10 +40,10 @@ Curious? We guarantee it will be a breeze!
 **What to do?**
 
 Its very easy. Sign up
-1. Norwegian: [julekalender.com](http://www.julekalender.com/opprett?a=wp/ "julekalender.com") and try it out for free until november 25th!
-1. Swedish: [julekalender.com](http://www.julekalender.com/se/opprett?a=wp/ "julekalender.com") and try it out for free until november 25th!
-1. Danish: [julekalender.com](http://www.julekalender.com/dk/opret?a=wp/ "julekalender.com") and try it out for free until november 25th!
-1. English: [julekalender.com](http://www.julekalender.com/en/opprett?a=wp/ "julekalender.com") and try it out for free until november 25th!
+1. Norwegian: [julekalender.com](http://www.julekalender.com/opprett?a=wp "julekalender.com") and try it out for free until november 25th!
+1. Swedish: [julekalender.com](http://www.julekalender.com/se/opprett?a=wp "julekalender.com") and try it out for free until november 25th!
+1. Danish: [julekalender.com](http://www.julekalender.com/dk/opret?a=wp "julekalender.com") and try it out for free until november 25th!
+1. English: [julekalender.com](http://www.julekalender.com/en/opprett?a=wp "julekalender.com") and try it out for free until november 25th!
 
 
 == Installation ==
