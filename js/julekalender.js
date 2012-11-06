@@ -12,9 +12,9 @@ var MakenewsmailJulekalender = (function( $ ) {
 		var self = this;
 		
 		this.getCalendars().then(
-			function( json ) { self.writePage(json);  }, function(error) { alert("opps") }
-		)
-	}
+			function( json ) { self.writePage(json);  }, function(error) { alert("opps"); }
+		);
+	};
 
 	Julekalender.prototype.getCalendars = function() {
 		var dfd = new $.Deferred();
@@ -24,35 +24,34 @@ var MakenewsmailJulekalender = (function( $ ) {
 			crossDomain: true,
 			success: dfd.resolve
 		}).promise();
-	}
+	};
 
 	Julekalender.prototype.writePage = function( json ) {
 		var local = json,
-			newarr = [], 
+			newarr = [],
 			counter = 1;
 		
 						
 			(this.numCalendars > local.length) ? counter = local.length : counter = this.numCalendars;
 			
-			for(i=0;i<counter;i++) { 
+			for(i=0;i<counter;i++) {
 				local_language = local[i].language.substring(0, 2);
 				
 				if( this.lang === local_language ) {
-					newarr.push(local[i]); 
+					newarr.push(local[i]);
 				}
 			}
 			
 			template = Handlebars.compile($('#template').html());
 			var temp = template(this.shuffle(newarr));
 			
-			$('ul#julekalender').append(temp)
-	}
+			$('ul#julekalender').append(temp);
+	};
 
 	Julekalender.prototype.shuffle = function(arr) {
 		for(var j, x, i = arr.length; i; j = parseInt(Math.random() * i), x = arr[--i], arr[i] = arr[j], arr[j] = x);
     	return arr;
-    	
-	}
+    };
 
 	return Julekalender;
 	

@@ -12,6 +12,7 @@ The Christmas Advent Calendar widget grabs all christmas advent calendars from j
 == Description ==
 
 *Important: The calendars will not be activated before December 1th. But then its game on!.*
+Participating is free!
 
 The plugin currently supports english, norwegian, swedish and danish.
 
@@ -32,15 +33,17 @@ Its very easy. Sign up at [julekalender](http://www.julekalender.com?a=wp/ "jule
 1. Open widgets section and drag it into your preferred widget area
 1. Select number of calendars to show
 1. Participate and win prices.
-1. Buy it!
+1. if corporate? Buy it!
 
 == Changelog ==
 
+= 1.1.2 = Added correct links to widget
 = 1.1 = Only displays calendars in your language
 = 1.0 = First version. Supported languages are english, norwegian and swedish!
 
 == Upgrade Notice ==
 
+= 1.1.2 = Added correct links to widget
 = 1.1 = Only displays calendars in your language
 = 1.0 = First version. Supported languages are english, norwegian and swedish!
 
