@@ -1,5 +1,4 @@
-
-.julekalender-wrapper { width:99%;background:#f1f1f1;margin:0px;padding: 10px;overflow:hidden; }
+.julekalender-wrapper { width:inherit;background:#f1f1f1;margin:0px;padding: 10px;overflow:hidden; }
 .julekalender-wrapper { text-align:right; }
 .julekalender-wrapper h3, .julekalender-wrapper p { text-align:left;}
 .julekalender-wrapper a { color:#717171;font-size:0.8em;padding-right:10px;font-family:arial;helvetica;}
