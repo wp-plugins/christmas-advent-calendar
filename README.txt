@@ -57,12 +57,14 @@ Its very easy. Sign up
 
 == Changelog ==
 
+= 1.1.3 = CSS bugfix
 = 1.1.2 = Added correct links to widget
 = 1.1 = Only displays calendars in your language
 = 1.0 = First version. Supported languages are english, norwegian and swedish!
 
 == Upgrade Notice ==
 
+= 1.1.3 = CSS bugfix
 = 1.1.2 = Added correct links to widget
 = 1.1 = Only displays calendars in your language
 = 1.0 = First version. Supported languages are english, norwegian and swedish!
