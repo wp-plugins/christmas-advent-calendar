@@ -3,7 +3,7 @@
 Plugin Name: Christmas Advent Calendar
 Plugin URI: http://www.julekalender.com
 Description: Get all Christmas Advent Calendars from julekalender.com. Give your users an opportunity to participate in competitions and win prices!
-Version: 1.1.3
+Version: 1.1.4
 Author: Stian B Pedersen
 Author URI: http://www.julekalender.com
 */

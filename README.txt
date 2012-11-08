@@ -57,6 +57,7 @@ Its very easy. Sign up
 
 == Changelog ==
 
+= 1.1.4 = javascript alertbox bugfix
 = 1.1.3 = CSS bugfix
 = 1.1.2 = Added correct links to widget
 = 1.1 = Only displays calendars in your language
@@ -64,6 +65,7 @@ Its very easy. Sign up
 
 == Upgrade Notice ==
 
+= 1.1.4 = javascript alertbox bugfix
 = 1.1.3 = CSS bugfix
 = 1.1.2 = Added correct links to widget
 = 1.1 = Only displays calendars in your language
