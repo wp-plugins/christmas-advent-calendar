@@ -12,7 +12,7 @@ var MakenewsmailJulekalender = (function( $ ) {
 		var self = this;
 		
 		this.getCalendars().then(
-			function( json ) { self.writePage(json);  }, function(error) { alert("opps"); }
+			function( json ) { self.writePage(json);  }, function(error) { }
 		);
 	};
 
