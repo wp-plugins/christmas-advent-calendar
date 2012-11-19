@@ -1,5 +1,4 @@
 <?php
-
 class Julekalender {
 	public $options;
 

@@ -1,5 +1,4 @@
 <?php
-
 	class JulekalenderWidget extends WP_Widget {
 		public function __construct() {
 			$params = array(
