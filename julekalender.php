@@ -1,9 +1,10 @@
 <?php
+
 /*
 Plugin Name: Christmas Advent Calendar
 Plugin URI: http://www.julekalender.com
 Description: Get all Christmas Advent Calendars from julekalender.com. Give your users an opportunity to participate in competitions and win prices!
-Version: 1.1.4
+Version: 1.2
 Author: Stian B Pedersen
 Author URI: http://www.julekalender.com
 */
@@ -21,6 +22,6 @@ function julekalender_register_widget() {
 }
 add_action('widgets_init', 'julekalender_register_widget');	
 
-
 register_deactivation_hook( __FILE__, array('Julekalender','julekalender_remove') );
+
 ?>
