@@ -53,6 +53,7 @@ Its very easy. Sign up
 1. if corporate? Buy it!
 
 == Changelog ==
+= 1.2.1 = Version 1.2 isnt working properly. Added fix
 = 1.2 = Added calendar thumbnail-support & cooler CSS approach
 = 1.1.4 = javascript alertbox bugfix
 = 1.1.3 = CSS bugfix
@@ -61,6 +62,7 @@ Its very easy. Sign up
 = 1.0 = First version. Supported languages are english, norwegian and swedish!
 
 == Upgrade Notice ==
+= 1.2.1 = Version 1.2 isnt working properly. Added fix - update!!
 = 1.2 = Added calendar thumbnail-support & cooler CSS approach
 = 1.1.4 = javascript alertbox bugfix
 = 1.1.3 = CSS bugfix
