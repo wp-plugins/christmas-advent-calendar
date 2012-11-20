@@ -106,5 +106,5 @@ class JulekalenderWidget extends WP_Widget {
 			echo $after_widget;
 	}
 }
-?>
+
 
