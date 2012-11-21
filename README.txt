@@ -13,13 +13,14 @@ The Christmas Advent Calendar widget grabs all christmas advent calendars from j
 == Description ==
 *Important: The calendars will not be activated before December 1th. But then its game on!.*
 
-Participating is free!
+Participating is free and should be fun!
 
 The plugin currently supports english, norwegian, swedish and danish.
 
 **Premium**
 
 **What do I get?**
+
 1. A javascript-based calendar that doesn't break on iPad and iPhone
 1. 24 slots that doesn't open prematurely
 1. Add pics or video to your questions & competitions
@@ -32,11 +33,13 @@ The plugin currently supports english, norwegian, swedish and danish.
 1. Your calendar will be promoted on julekalender.com and through Wordpress
 
 **Why buy?**
+
 An advent calendar creates commitment and enthusiasm. Its a cheap & effective way to build brand recognition, and will also create new customer relationships and preserve old ones.
 
 Curious? We guarantee it will be a breeze!
 
 **What to do?**
+
 Its very easy. Sign up
 
 1. Norwegian: [julekalender.com](http://www.julekalender.com/opprett?a=wp "julekalender.com") and try it out for free until november 25th!
