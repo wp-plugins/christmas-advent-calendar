@@ -80,7 +80,7 @@ class JulekalenderWidget extends WP_Widget {
 				<ul id="julekalender">
 					<script id="template" type="text/x-handlebars-template">
                         {{#each this}}
-                        <li style="background:url({{thumbnail}}) center left no-repeat;"><a target="_blank" href="{{path}}">{{title}}</a></li>
+                        <li style="background:url({{thumbnail}}) center left no-repeat;"><a target="_blank" href="{{path}}?wp">{{title}}</a></li>
                         {{/each}}
                     </script>
                 </ul>

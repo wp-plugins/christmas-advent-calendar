@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: stian4000
 Donate link: 
-Tags: julekalender, julkalender, adventskalender, advent calendar, adventcalendar, widget, win prices
+Tags: julekalender, julkalender, adventskalender, advent calendar, adventcalendar, jul, konkurranse, widget, prices
 Requires at least: 3.0.0
 Tested up to: 3.4.2
 Stable tag: 1.1
@@ -56,6 +56,7 @@ Its very easy. Sign up
 1. if corporate? Buy it!
 
 == Changelog ==
+= 1.2.3 = Added tracking
 = 1.2.2 = Changes med to api reflected in WP plugin
 = 1.2.1 = Version 1.2 isnt working properly. Added fix
 = 1.2 = Added calendar thumbnail-support & cooler CSS approach
@@ -66,6 +67,7 @@ Its very easy. Sign up
 = 1.0 = First version. Supported languages are english, norwegian and swedish!
 
 == Upgrade Notice ==
+= 1.2.3 = Added tracking
 = 1.2.2 = Changes med to api reflected in WP plugin
 = 1.2.1 = Version 1.2 isnt working properly. Added fix - update!!
 = 1.2 = Added calendar thumbnail-support & cooler CSS approach
