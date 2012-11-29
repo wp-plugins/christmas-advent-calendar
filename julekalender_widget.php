@@ -86,19 +86,13 @@ class JulekalenderWidget extends WP_Widget {
                 </ul>
 
 <?php			if($bloginfo_lang === 'nb-NO') { ?>
-                    <strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/julekalendere-2012"><?php _e('Vis flere kalendere', 'julekalender');?></a></strong><br />
-                    <strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/opprett"><?php _e('Kj&oslash;p kalender', 'julekalender');?></a></strong>
-
+                    <strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/julekalendere-2012?wp"><?php _e('Vis flere kalendere', 'julekalender');?></a></strong><br />
 <?php 				} elseif($bloginfo_lang === 'da-DK') { ?>
-					<strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/dk/julekalendere-2012"><?php _e('Se flere kalendere', 'julekalender');?></a></strong><br />
-                    <strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/dk/opret"><?php _e('K&oslash;be kalender', 'julekalender');?></a></strong>
-
+					<strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/dk/julekalendere-2012?wp"><?php _e('Se flere kalendere', 'julekalender');?></a></strong><br />
 <?php 				} elseif($bloginfo_lang === 'sv-SE') { ?>
-					<strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/se/julkalendrar-2012"><?php _e('Visa fler kalendrar', 'julekalender');?></a></strong><br />
-                    <strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/se/opprett"><?php _e('K&ouml;pa kalender', 'julekalender');?></a></strong>
+					<strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/se/julkalendrar-2012?wp"><?php _e('Visa fler kalendrar', 'julekalender');?></a></strong><br />
 <?					} else { ?>
-					<strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/en/adventcalendars-2012"><?php _e('I want more calendars', 'julekalender');?></a></strong><br />
-                    <strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/en/opprett"><?php _e('Buy a calendar', 'julekalender');?></a></strong>
+					<strong>&raquo;&nbsp;<a target="_blank" href="http://www.julekalender.com/en/adventcalendars-2012?wp"><?php _e('I want more calendars', 'julekalender');?></a></strong><br />
 <?php } ?>
                 <script> new window.MakenewsmailJulekalender('<?php echo $julekalender_num ?>','<?php echo substr($bloginfo_lang, 0,2) ?>'); </script>
 <?php

@@ -56,6 +56,7 @@ Its very easy. Sign up
 1. if corporate? Buy it!
 
 == Changelog ==
+= 1.2.4 = Removed buying option
 = 1.2.3 = Added tracking
 = 1.2.2 = Changes med to api reflected in WP plugin
 = 1.2.1 = Version 1.2 isnt working properly. Added fix
@@ -67,6 +68,7 @@ Its very easy. Sign up
 = 1.0 = First version. Supported languages are english, norwegian and swedish!
 
 == Upgrade Notice ==
+= 1.2.4 = Removed buying option
 = 1.2.3 = Added tracking
 = 1.2.2 = Changes med to api reflected in WP plugin
 = 1.2.1 = Version 1.2 isnt working properly. Added fix - update!!
