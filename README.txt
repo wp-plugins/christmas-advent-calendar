@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: stian4000
 Donate link: advend-calendar.net
-Tags: julekalender, julkalender, adventskalender, advent calendar, advent-calendar, jul, christmas, widget
+Tags: julekalender, julkalender, adventskalender, advent calendar, advent-calendar, jul, christmas, widget, online advent calendar
 Requires at least: 3.0.0
 Tested up to: 3.6
 Stable tag: 1.1
@@ -10,9 +10,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Get a random selection of advent calendars from advent-calendar.net!
+Get a random selection of advent calendars from www.advent-calendar.net
 
-*Important: The calendars will not be activated before December 1th. But then its game on!.
+* Important: The calendars will not be activated before December 1th. But then its game on!.
 Participating is free and should be fun!
 
 The plugin currently supports english, norwegian, swedish and danish.
