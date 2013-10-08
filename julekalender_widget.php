@@ -54,10 +54,6 @@ class JulekalenderWidget extends WP_Widget {
 ?>
 			</select>
 		</p>
-        <p>
-            <label><?php _e('Corporate', 'julekalender'); ?></label><br />
-			<?php _e('An advent calendar creates commitment and enthusiasm. Its a cheap & effective way to build brand recognition, and will also create new customer relationships.<br /><br /> Curious? <br /><br /><a target="_blank" href="http://www.julekalender.com?a=wp">Sign up to test us for free until 25 november</a><br /><br /> We guarantee it will be a breeze!','julekalender'); ?>
-        </p>	
 <?php
 	}
 	// show widget
