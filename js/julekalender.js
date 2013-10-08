@@ -41,14 +41,8 @@ var MakenewsmailJulekalender = (function( w, $, undefined ) {
 
 			for(i=0;i<counter;i++) { 
 				local_language = local[i].language.substring(0, 2);
-
+				
 				if( this.lang === local_language ) {
-					if( !local[i].path.match(/(julekalender.com)$/) ) {
-						local[i].path = local[i].path + "julekalender.com";
-					}else{
-						local[i].path = local[i].path;	
-					}
-
 					if(local[i].title.indexOf(" ") !== -1) {
 						var title = local[i].title.split(" ");
 						local[i].title = title[0];
