@@ -22,8 +22,3 @@ class Julekalender {
 		register_widget("JulekalenderWidget");	
 	}
 }
-
-
-
-
-

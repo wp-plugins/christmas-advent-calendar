@@ -1,13 +1,11 @@
-var MakenewsmailJulekalender = (function( $ ) {
-
+var MakenewsmailJulekalender = (function( w, $, undefined ) {
 	function Julekalender(numCalendars, lang) {
 		this.numCalendars = numCalendars || 3;
 		this.lang = lang;
 		this.apiurl = 'https://tiltnes.julekalender.com/api/calendars.json?callback=tiltnes';
 		this.init();
-		
 	}
-	
+
 	Julekalender.prototype.generatePNG = function(url) {
 		var URL2PNG_APIKEY = "P4F33918CBA1A4",
 		    URL2PNG_SECRET = "S96C086057F262",
@@ -35,23 +33,22 @@ var MakenewsmailJulekalender = (function( $ ) {
 	}
 
 	Julekalender.prototype.writePage = function( json ) {
-		var local = json,
+		var local = json.sort(),
 			newarr = [], 
 			counter = 1;
-									
+
 			(this.numCalendars > local.length) ? counter = local.length : counter = this.numCalendars;
-			
+
 			for(i=0;i<counter;i++) { 
 				local_language = local[i].language.substring(0, 2);
-				
+
 				if( this.lang === local_language ) {
-										
 					if( !local[i].path.match(/(julekalender.com)$/) ) {
 						local[i].path = local[i].path + "julekalender.com";
 					}else{
 						local[i].path = local[i].path;	
 					}
-					
+
 					if(local[i].title.indexOf(" ") !== -1) {
 						var title = local[i].title.split(" ");
 						local[i].title = title[0];
@@ -65,26 +62,17 @@ var MakenewsmailJulekalender = (function( $ ) {
 					newarr.push(local[i]);
 				}
 			}
-			
+
 			template = Handlebars.compile($('#template').html());
 			var temp = template(this.shuffle(newarr));
-			
+
 			$('ul#julekalender').append(temp)
 	}
 
 	Julekalender.prototype.shuffle = function(arr) {
 		for(var j, x, i = arr.length; i; j = parseInt(Math.random() * i), x = arr[--i], arr[i] = arr[j], arr[j] = x);
     	return arr;
-    	
 	}
 
 	return Julekalender;
-	
-}( jQuery ));
-
-
-
-
-
-
-
+}( window, jQuery, undefined ));

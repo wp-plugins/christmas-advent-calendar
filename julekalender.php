@@ -1,13 +1,12 @@
 <?php
 /*
 Plugin Name: Christmas Advent Calendar
-Plugin URI: http://www.julekalender.com
-Description: Get all Christmas Advent Calendars from julekalender.com. Give your users an opportunity to participate in competitions and win prices!
-Version: 1.2.4
+Plugin URI: http://advent-calendar.net
+Description: Get a random selection of advent calendars from advent-calendar.net!
+Version: 1.3
 Author: Stian B Pedersen
-Author URI: http://www.julekalender.com
+Author URI: http://www.advent-calendar.net
 */
-
 require("julekalender_plugin.php");
 require("julekalender_widget.php");
 
